@@ -7,8 +7,9 @@
 -----------------------------
 --- General-Information -----
 This program aim is to visualize substitution mutations patterns across the heavy variable region of the BCR heavy chain. 
-The program first pulls the datasets from ImmuneDB tables located in MySQL server (if different server is in use, may need to change connector),
-then the datasets are divided by metadata, processed, merged and modified. The final output is a heatmap that visualize the correlations values (spearman) between the different datasets (created by filtering the initial dataset by metadata).
+The program first pulls the datasets from ImmuneDB tables located in MySQL server (if different server is in use, may need to change connector - works only with MySQL),
+then the datasets are divided by metadata, processed, merged and modified. The final output is a heatmap that visualize the correlations values 
+(spearman) between the different datasets (created by filtering the initial dataset by metadata).
 -----------------------------
 -----------------------------
 -----------------------------
