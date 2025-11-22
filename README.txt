@@ -15,20 +15,14 @@ then the datasets are divided by metadata, processed, merged and modified. The f
 -----------------------------
 -----------------------------
 --- Required-Python-Modules -
-1. configparser
-2. os
-3. pymysql 
-4. pandas 
-5. numpy 
-6. json
-7. regex
-8. distutils.util 
-8. scipy 
-9. re
-10. matplotlib
-11. seaborn
-12. datetime
-13. ast
+1. pymysql 
+2. pandas 
+3. numpy 
+4. regex
+5. scipy 
+6. matplotlib
+7. seaborn
+8. ast
 -----------------------------
 -----------------------------
 -----------------------------
